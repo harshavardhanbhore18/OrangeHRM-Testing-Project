@@ -1,30 +1,30 @@
 # OrangeHRM Testing Project
 
-## Project Overview
-This project demonstrates Manual Testing of the OrangeHRM application.
+## 📌 Project Overview
+This repository contains manual testing documentation for the OrangeHRM application.
 
-## Modules Tested
+## 📋 Modules Tested
 - Login
-- PIM - Add Employee
+- PIM – Add Employee
 
-## Testing Types
+## 🧪 Testing Types Performed
 - Functional Testing
 - Positive Testing
 - Negative Testing
-- UI Validation
-- Validation Testing
+- UI Validation Testing
+- Input Validation Testing
 
-## Documents Included
+## 📂 Project Documents
 - Test Cases
 - Test Execution Report
 - Bug Report
 - Requirement Traceability Matrix (RTM)
 - Test Summary Report
 
-## Tools Used
+## 🛠 Tools Used
 - Microsoft Excel
-- OrangeHRM Demo Application
 - GitHub
+- OrangeHRM Demo Application
 
-## Author
+## 👨‍💻 Author
 Harshavardhan Bhore
